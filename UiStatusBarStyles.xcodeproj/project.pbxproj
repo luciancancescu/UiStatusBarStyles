@@ -77,11 +77,8 @@
 		7138C5D01AA91078003AEEA7 /* UiStatusBarStyles */ = {
 			isa = PBXGroup;
 			children = (
-				7138C5D31AA91078003AEEA7 /* AppDelegate.swift */,
 				7138C5D51AA91078003AEEA7 /* ViewController.swift */,
 				7138C5D71AA91078003AEEA7 /* Main.storyboard */,
-				7138C5DA1AA91079003AEEA7 /* Images.xcassets */,
-				7138C5DC1AA91079003AEEA7 /* LaunchScreen.xib */,
 				7138C5D11AA91078003AEEA7 /* Supporting Files */,
 			);
 			path = UiStatusBarStyles;
@@ -90,6 +87,9 @@
 		7138C5D11AA91078003AEEA7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7138C5DA1AA91079003AEEA7 /* Images.xcassets */,
+				7138C5DC1AA91079003AEEA7 /* LaunchScreen.xib */,
+				7138C5D31AA91078003AEEA7 /* AppDelegate.swift */,
 				7138C5D21AA91078003AEEA7 /* Info.plist */,
 			);
 			name = "Supporting Files";
